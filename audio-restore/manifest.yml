@@ -1,0 +1,6 @@
+name: audio-restore
+version: "0.1.0"
+description: 评估音频问题并规划参数，区分实测证据、目标值、可执行能力和人工修复。
+author: openfilm-cut
+tags: [audio, video, restore]
+standard: agentskills.io/v1

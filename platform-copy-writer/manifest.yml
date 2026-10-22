@@ -1,0 +1,6 @@
+name: platform-copy-writer
+version: "0.1.0"
+description: 基于切片事实生成抖音、小红书、视频号、B站或快手的标题、话题与简介。
+author: openfilm-cut
+tags: [video, copy, social]
+standard: agentskills.io/v1

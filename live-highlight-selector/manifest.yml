@@ -1,0 +1,6 @@
+name: live-highlight-selector
+version: "0.1.0"
+description: 读取带时间戳直播全文，挑选语义闭环的高光候选，输出结构化清单。
+author: openfilm-cut
+tags: [video, livestream, highlight, clip]
+standard: agentskills.io/v1

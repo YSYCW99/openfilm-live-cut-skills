@@ -1,0 +1,6 @@
+name: mg-overlay-planner
+version: "0.1.0"
+description: 为财经口播规划透明动画卡点、信息卡片、重点标注和避让区域，只引用本地素材。
+author: openfilm-cut
+tags: [video, mg, animation, overlay, info-card]
+standard: agentskills.io/v1

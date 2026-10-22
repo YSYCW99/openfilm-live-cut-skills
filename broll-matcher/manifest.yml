@@ -1,0 +1,6 @@
+name: broll-matcher
+version: "0.1.0"
+description: 规划B-roll语义标签与成片点位，匹配用户提供的本地素材，不下载或生成素材。
+author: openfilm-cut
+tags: [video, broll, footage]
+standard: agentskills.io/v1

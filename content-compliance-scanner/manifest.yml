@@ -1,0 +1,6 @@
+name: content-compliance-scanner
+version: "0.1.0"
+description: 对候选片段完整原文做语义风险自检，输出风险原因及保留、剔除清单。
+author: openfilm-cut
+tags: [video, compliance, audit]
+standard: agentskills.io/v1
